@@ -1,6 +1,6 @@
 {
   "name": "penguin-only-editor",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Simple component for penguin that shows a tag only in editing mode.",
   "main": "index.js",
   "scripts": {
